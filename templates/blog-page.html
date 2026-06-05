@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="vlist content">
+	<h1 class="title">
+		{{ page.title }}
+	</h1>
+	<p class="small">{{ page.date }}</p>
+{{ page.content | safe }}
+</div>
+{% endblock content %}

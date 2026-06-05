@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html" charset="UTF-8"/>
+		<title>Jhona Blog</title>
+  		<link id="stylesheet" rel="stylesheet" type="text/css" href="/style.css">
+	</head>
+	<body>
+		<header>
+			<div class="navigation">
+				<div><a href="{{ get_url(path="/") }}">Home</a></div>
+				<div><a href="{{ get_url(path="@/blog/_index.md") }}">Blogs</a></div>
+				<div><a href="{{ get_url(path="@/minecraft/_index.md") }}">Minecraft</a></div>
+				<div><a href="{{ get_url(path="@/links/_index.md") }}">Links</a></div>
+				<div><a href="{{ get_url(path="@/about.md") }}">About</a></div>
+			</div>
+		</header>
+		<main>
+			<div class="container">
+				{% block content %} {% endblock content %}
+			</div>
+		</main>
+		<footer class="footer">
+			<div class="footer-horizontal">
+				<a href="https://mastodon.social/"><img class="btn" src="/mastodon_button_1.gif" height="31" alt="join mastodon today"/></a>
+				<a href="https://www.kernel.org/"><img class="btn" src="/xenia_CGG_small.gif" height="31" alt="xenia linux"/></a>
+				<a href="https://fedoraproject.org/"><img class="btn" src="/poweredbyfedora.gif" height="31" alt="powered by fedora"/></a>
+				<a href="https://last.fm/user/jhxnnat"><img class="btn" src="/lastfm-01.png" height="31" alt="lastfm"/></a>
+				<a href="https://www.gnome.org/"><img class="btn" src="/GnomeLogoHorizontal.png" height="31" alt="go see gnome"/></a>
+				<a href="https://www.gnome.org/"><img class="btn" src="/GnomeLogoHorizontal.png" height="31" alt="go see gnome"/></a>
+				<a href="https://www.gnome.org/"><img class="btn" src="/GnomeLogoHorizontal.png" height="31" alt="go see gnome"/></a>
+				<a href="https://www.gnome.org/"><img class="btn" src="/GnomeLogoHorizontal.png" height="31" alt="go see gnome"/></a>
+				<a href="https://www.gnome.org/"><img class="btn" src="/GnomeLogoHorizontal.png" height="31" alt="go see gnome"/></a>
+				<a href="https://www.gnome.org/"><img class="btn" src="/GnomeLogoHorizontal.png" height="31" alt="go see gnome"/></a>
+				<p>Jhona (c) 2026.</p>
+			</div>
+		</footer>
+	</body>
+</html>
+
