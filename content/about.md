@@ -3,7 +3,7 @@ title = "About"
 template = "about.html"
 +++
 
-My name is Jhonatan, I'm from Colombia.
+Hello! my name is Jhonatan, I'm from Colombia.
 My interest are technology (specially ethical tech, let it be hardware or software), programming, the linux desktop and servers, minecraft building, and mistery stuff.
 
 **Some data about me**:
