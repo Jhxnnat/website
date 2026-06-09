@@ -5,8 +5,9 @@
 	<h1 class="title">
 		{{ page.title }}
 	</h1>
-	<p class="small">{{ page.date }}</p>
+	<p class="small">{{ page.date }} | {{ page.description }}</p>
 	<hr>
-{{ page.content | safe }}
+	{{ page.content | safe }}
 </div>
 {% endblock content %}
+

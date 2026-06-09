@@ -8,8 +8,8 @@ Aquí encontrarás [blogs](/es/blog), a veces largos a veces cortos; actualizaci
 
 # Cosas que he hecho o que he estado trabajando últimamente
 
-- [Un editor de texto de juguete](https://github.com/jhxnnat/red)
-- [imagen de Bluefin que me instalaré algún día](https://github.com/jhxnnat/ublue-bluefin-niri)
 - [una librería de strings inspirada en sds](https://github.com/jhxnnat/strlib)
+- [Un editor de texto de juguete](https://github.com/jhxnnat/red)
 - [Este website](https://github.com/jhxnnat/website)
+- [imagen de Bluefin que me instalaré algún día](https://github.com/jhxnnat/ublue-bluefin-niri) (si obtengo una laptop secundaria)
 
