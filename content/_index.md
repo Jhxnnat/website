@@ -13,3 +13,4 @@ Here you will find <a href="/blog">blogs</a>, sometimes long form sometimes just
 - [This website](https://github.com/jhxnnat/website)
 - [Bluefin image one day I'll daily drive](https://github.com/jhxnnat/ublue-bluefin-niri) (if I get a new machine)
 
+
